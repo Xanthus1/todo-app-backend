@@ -7,7 +7,7 @@ const todoRoutes = express.Router();
 const dotenv = require("dotenv");
 dotenv.config()
 
-const PORT = process.env.PORT | 4000;
+const PORT = (process.env.PORT || 4000);
 
 let Todo = require('./models/todo.model');
 
