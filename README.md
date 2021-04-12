@@ -2,7 +2,7 @@
 
 This project is the backend API using NodeJS/Express for a todo list application. It requires a MongoDB database to connect to, as well as a frontend for user interaction: https://github.com/Xanthus1/todo-app-react
 
-This project was initially created following this tutorial, with some changes and new features: https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/. Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initially created following this tutorial, with some changes and new features: https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/.
 
 ## Demo
 
