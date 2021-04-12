@@ -22,6 +22,10 @@ You can also define the Port #. The application defaults to using 4000 if this i
 
 `PORT=4000`
 
+Install dependencies (execute in root directory)
+
+`$ npm install`
+
 ## Deployment
 
 To run server:
